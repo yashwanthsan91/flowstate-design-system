@@ -1,0 +1,9 @@
+{
+  "name": "flowstate-design-system",
+  "version": "1.0.0",
+  "description": "Minimal design-system codebase for Flowstate, used as a GitHub-import demo in the Claude Design course.",
+  "private": true,
+  "peerDependencies": {
+    "react": ">=17"
+  }
+}
